@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>WHITE PARTY BANGKOK</title>
+    <link href="https://joeyrhyder.github.io/wpbkk-pages/feed.xml" rel="self" />
+    <link href="https://joeyrhyder.github.io/wpbkk-pages" />
+    <updated>2024-11-09T06:29:29+07:00</updated>
+    <author>
+        <name>Joey</name>
+    </author>
+    <id>https://joeyrhyder.github.io/wpbkk-pages</id>
+
+    <entry>
+        <title>White Party Bangkok</title>
+        <author>
+            <name>Joey</name>
+        </author>
+        <link href="https://joeyrhyder.github.io/wpbkk-pages/white-party-bangkok/"/>
+        <id>https://joeyrhyder.github.io/wpbkk-pages/white-party-bangkok/</id>
+
+        <updated>2024-11-09T06:29:29+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Techtopia 27-31 December 2024
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Techtopia</h2>
+<p class="align-center">27-31 December 2024</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

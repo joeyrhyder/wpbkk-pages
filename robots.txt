@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://joeyrhyder.github.io/wpbkk-pages/sitemap.xml
