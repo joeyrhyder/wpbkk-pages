@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "WHITE PARTY BANGKOK",
     "description": "",
-    "home_page_url": "https://joeyrhyder.github.io/wpbkk-pages",
-    "feed_url": "https://joeyrhyder.github.io/wpbkk-pages/feed.json",
+    "home_page_url": "https://www.whitepartybkk.com",
+    "feed_url": "https://www.whitepartybkk.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Joey"
     },
     "items": [
         {
-            "id": "https://joeyrhyder.github.io/wpbkk-pages/white-party-bangkok/",
-            "url": "https://joeyrhyder.github.io/wpbkk-pages/white-party-bangkok/",
+            "id": "https://www.whitepartybkk.com/white-party-bangkok/",
+            "url": "https://www.whitepartybkk.com/white-party-bangkok/",
             "title": "White Party Bangkok",
             "summary": "Techtopia 27-31 December 2024",
             "content_html": "<h2 class=\"align-center\">Techtopia</h2>\n<p class=\"align-center\">27-31 December 2024</p>",

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>WHITE PARTY BANGKOK</title>
-    <link href="https://joeyrhyder.github.io/wpbkk-pages/feed.xml" rel="self" />
-    <link href="https://joeyrhyder.github.io/wpbkk-pages" />
+    <link href="https://www.whitepartybkk.com/feed.xml" rel="self" />
+    <link href="https://www.whitepartybkk.com" />
     <updated>2024-11-09T06:29:29+07:00</updated>
     <author>
         <name>Joey</name>
     </author>
-    <id>https://joeyrhyder.github.io/wpbkk-pages</id>
+    <id>https://www.whitepartybkk.com</id>
 
     <entry>
         <title>White Party Bangkok</title>
         <author>
             <name>Joey</name>
         </author>
-        <link href="https://joeyrhyder.github.io/wpbkk-pages/white-party-bangkok/"/>
-        <id>https://joeyrhyder.github.io/wpbkk-pages/white-party-bangkok/</id>
+        <link href="https://www.whitepartybkk.com/white-party-bangkok/"/>
+        <id>https://www.whitepartybkk.com/white-party-bangkok/</id>
 
         <updated>2024-11-09T06:29:29+07:00</updated>
             <summary>

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://joeyrhyder.github.io/wpbkk-pages/sitemap.xml
+Sitemap: https://www.whitepartybkk.com/sitemap.xml
